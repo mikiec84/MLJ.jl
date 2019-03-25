@@ -22,10 +22,11 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/alan-turing-institute/MLJ.jl.git"
+    repo = "github.com/ysimillides/MLJ.jl.git"
 )
 
 #    modules = [MLJ]
 # Documenter can also automatically deploy documentation to gh-pages.
 # See "Hosting Documentation" and deploydocs() in the Documenter manual
 # for more information.
+
